@@ -1,0 +1,212 @@
+{
+  "users": [
+    {
+      "id": "40a41438-84a6-4b4d-ae1d-7f1713d0a9fe",
+      "nome": "Neilton Seguins",
+      "email": "neilton@alura.com",
+      "senha": "123456",
+      "transacoes": [
+        {
+          "id": "788f434b-11ee-451d-b968-02d203bfc81a",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "16/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "745fed04-dd02-4e45-821e-166f524d1fb2",
+          "tipoTransacao": "Depósito",
+          "valor": "500",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "78c5d8c3-6f46-41d1-9152-7c2474bcd473",
+          "tipoTransacao": "Transferência",
+          "valor": "360",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "70eeaa13-cef8-4ad6-aa00-7dce77567748",
+          "tipoTransacao": "Depósito",
+          "valor": "200",
+          "data": "01/03/2023",
+          "mes": "Março"
+        },
+        {
+          "id": "283bc3db-dec3-4bd6-b8db-f57d748d054a",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "31/07/2024",
+          "mes": "Julho"
+        },
+        {
+          "id": "49c99cf8-bf96-463a-9548-e8e38bf39811",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "31/07/2024",
+          "mes": "Julho"
+        },
+        {
+          "id": "6496f5f8-20ea-4c11-9daa-27cb4d637f8a",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "31/07/2024",
+          "mes": "Julho"
+        },
+        {
+          "id": "7784733e-3980-4610-9d26-2cd39ababc5d",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "31/07/2024",
+          "mes": "Julho"
+        }
+      ],
+      "saldo": 2200
+    },
+    {
+      "id": "c691fd15-dcd5-4f24-89da-cdfa3cef9d67",
+      "nome": "Marcos Vinicius Neves",
+      "email": "vinny@alura.com",
+      "senha": "123456",
+      "transacoes": [
+        {
+          "id": "b0411964-c8d4-4742-ad6d-15bb35b71b97",
+          "tipoTransacao": "Depósito",
+          "valor": "5000",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "f065a917-d283-4075-bbc3-4e1b3d8d1f3a",
+          "tipoTransacao": "Depósito",
+          "valor": "1500",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        }
+      ],
+      "saldo": 3500
+    },
+    {
+      "id": "29e325d6-3bc3-4442-9b00-f7f244b4b1fc",
+      "nome": "Felipe Pereira",
+      "email": "Fabiano.Barros@live.com",
+      "senha": "awK7MG7_GW2ftcZ",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "b46e7093-edd0-4a44-a997-aeba3c9588cf",
+      "nome": "Tertuliano Moreira",
+      "email": "MariaCecilia75@gmail.com",
+      "senha": "sa5NHk0H5PqHiPE",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "b715acf2-2b85-4da0-90ad-51696ebca759",
+      "nome": "Gúbio Nogueira",
+      "email": "Marcos.Moraes@bol.com.br",
+      "senha": "O3AshtGu0MkkAU8",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "eabb2e9c-e61c-4333-b4a2-67669c845535",
+      "nome": "Fabiano Oliveira",
+      "email": "Marcelo.Franco@bol.com.br",
+      "senha": "VOgLZjECBqAo9BU",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "7d5d1edf-f3c7-4609-8798-92277af66312",
+      "nome": "Dr. João Moreira",
+      "email": "Melissa_Pereira@hotmail.com",
+      "senha": "dXa8djwaet_gnD6",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "7be99a53-3ca9-46ff-948f-25e46820d614",
+      "nome": "Maitê Albuquerque",
+      "email": "Bruna11@hotmail.com",
+      "senha": "Q0onZKoAg5XJQIR",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "48ac1343-633f-409c-aef0-44721c024248",
+      "nome": "Hugo Barros",
+      "email": "Fabricia67@hotmail.com",
+      "senha": "v3saym4rVYBrMNC",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "31e077e9-aa24-45af-a63d-515ac1046652",
+      "nome": "Beatriz Albuquerque",
+      "email": "Paulo_Xavier@gmail.com",
+      "senha": "KYUEOsrT537JWEJ",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "d1d979db-992b-49c3-b233-2a2e1d74c50a",
+      "nome": "Enzo Nogueira",
+      "email": "Eduarda32@yahoo.com",
+      "senha": "6RnWFtKtgASuXO1",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "0db02b1b-4f8a-48be-b272-bcec0a50550a",
+      "nome": "Lorena Souza",
+      "email": "Emanuel_Nogueira@bol.com.br",
+      "senha": "pVuhYVr2F4bAX55",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "53a47eee-ca6f-4187-829d-4802706ba02c",
+      "nome": "Yango Franco",
+      "email": "Isabela_Saraiva84@gmail.com",
+      "senha": "iRtMMPdb3EVAXxA",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "22a3e3f0-1a78-410f-9f95-e30e73382498",
+      "nome": "Márcia Costa",
+      "email": "Arthur70@yahoo.com",
+      "senha": "QVMiV1UGQc6XOCY",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "232a9446-679d-4c9d-8557-9002b215779f",
+      "nome": "Isabela Martins Jr.",
+      "email": "Leonardo53@yahoo.com",
+      "senha": "7sD6JwKxPCm2MIr",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "33d91a91-6353-4c4e-88af-acbd4c62c203",
+      "nome": "Sirineu Pereira",
+      "email": "Roberto_Xavier@bol.com.br",
+      "senha": "0XRrYLVlc08RitA",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "9e67b5c1-f00c-4b38-95b3-521c30d68f38",
+      "nome": "Joaquim Macedo",
+      "email": "Murilo.Melo89@live.com",
+      "senha": "OkrkchHZIA6S0jh",
+      "transacoes": [],
+      "saldo": 0
+    }
+  ]
+}
